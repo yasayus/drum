@@ -49,3 +49,8 @@ html {
     letter-spacing: .1rem;
     color: #ffc600;
   }
+
+  
+.myEffect{
+    border:3px solid red;
+}
